@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabs {
+  width: 768px;
+  margin: 20px auto;
+}
+
+table {
+	font-size: 1em;
+}
+
+.ui-draggable, .ui-droppable {
+	background-position: top;
+}
+
+label {
+  display: inline-block; width: 150px;
+  text-align: right;
+}
+
+fieldset div {
+  margin-bottom: 2em;
+}
+
+fieldset .help {
+  display: inline-block;
+}
+
+.ui-tooltip {
+  width: 210px;
+}
